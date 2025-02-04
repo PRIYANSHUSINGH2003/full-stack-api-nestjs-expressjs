@@ -79,7 +79,8 @@ This project is a RESTful API for a simplified project management system where u
 3. Verify CRUD operations for Users, Projects, and Tasks.
 
 ## Demo
-A short screen recording demonstrating the API testing process will be available soon.
+A short screen recording demonstrating the API testing process.
+[Screen Recording - Made with FlexClip.webm](https://github.com/user-attachments/assets/27f92f98-3fd7-4945-8482-314d9579c2e6)
 
 ---
 ### Contributors
